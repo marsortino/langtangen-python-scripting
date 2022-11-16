@@ -1,4 +1,4 @@
-# TEST, NON SO SE FUNZIONA
+# TEST, it hasn't been tested yet.
 
 #!/usr/bin/env python
 import sys, math
