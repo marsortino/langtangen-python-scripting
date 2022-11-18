@@ -5,6 +5,8 @@
 # new file in the CSV format containing the x and errors data in the first two
 # columns of a spreadsheet
 
+# The text suggested to use 'csv' as module which is quite archaic. A more modern approach would be to use 'pandas'.
+
 #!/usr/bin/env python
 import csv
 
