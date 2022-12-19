@@ -2,4 +2,4 @@
 
 Exercises and material from Hans Petter Langtangen: "Python Scripting for Computational Science"
 
-ch2 stands for Chapter 2.
+'chx' stands for Chapter X
